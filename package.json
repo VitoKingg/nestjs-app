@@ -1,8 +1,8 @@
 {
   "name": "nestjs-app",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "my nest.js application",
+  "author": "Vito King",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
